@@ -14,7 +14,7 @@ sites:
   - name: Test mecca site
     url: https://mecca.coffee
   - name: test up/down site
-     url: https://joshuas-dapper-project-273199.webflow.io/
+    url: https://joshuas-dapper-project-273199.webflow.io/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
