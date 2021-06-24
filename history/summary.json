@@ -60,8 +60,8 @@
     "slug": "test-broken-site",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "94.25%",
-    "uptimeWeek": "99.18%",
+    "uptimeDay": "94.11%",
+    "uptimeWeek": "99.16%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.91%",
     "time": 1781,
@@ -70,7 +70,7 @@
     "timeMonth": 1781,
     "timeYear": 1781,
     "dailyMinutesDown": {
-      "2021-06-24": 83
+      "2021-06-24": 85
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://joshuas-dapper-project-273199.webflow.io/",
     "icon": "https://favicons.githubusercontent.com/joshuas-dapper-project-273199.webflow.io",
     "slug": "test-up-down-site",
-    "status": "down",
-    "uptime": "99.27%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.27%",
-    "time": 191,
-    "timeDay": 191,
-    "timeWeek": 191,
-    "timeMonth": 191,
-    "timeYear": 191,
+    "status": "up",
+    "uptime": "86.75%",
+    "uptimeDay": "86.75%",
+    "uptimeWeek": "86.75%",
+    "uptimeMonth": "86.75%",
+    "uptimeYear": "86.75%",
+    "time": 186,
+    "timeDay": 186,
+    "timeWeek": 186,
+    "timeMonth": 186,
+    "timeYear": 186,
     "dailyMinutesDown": {
-      "2021-06-24": 0
+      "2021-06-24": 2
     }
   }
 ]
