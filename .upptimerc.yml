@@ -11,7 +11,7 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-  - name: Test broken site
+  - name: Test mecca site
     url: https://mecca.coffee
 
 status-website:
