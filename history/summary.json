@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 107,
-    "timeWeek": 107,
-    "timeMonth": 107,
-    "timeYear": 107,
+    "time": 109,
+    "timeDay": 109,
+    "timeWeek": 109,
+    "timeMonth": 109,
+    "timeYear": 109,
     "dailyMinutesDown": {}
   },
   {
@@ -22,24 +22,6 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 273,
-    "timeWeek": 273,
-    "timeMonth": 273,
-    "timeYear": 273,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
-    "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -54,15 +36,33 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Hacker News",
+    "url": "https://news.ycombinator.com",
+    "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
+    "slug": "hacker-news",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 300,
+    "timeDay": 300,
+    "timeWeek": 300,
+    "timeMonth": 300,
+    "timeYear": 300,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Test Broken Site",
     "url": "https://thissitedoesnotexist.koj.co",
     "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co",
     "slug": "test-broken-site",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1781,
     "timeDay": 1781,
@@ -70,7 +70,7 @@
     "timeMonth": 1781,
     "timeYear": 1781,
     "dailyMinutesDown": {
-      "2021-06-24": 15
+      "2021-06-24": 17
     }
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1461,
-    "timeDay": 1461,
-    "timeWeek": 1461,
-    "timeMonth": 1461,
-    "timeYear": 1461,
+    "time": 1475,
+    "timeDay": 1475,
+    "timeWeek": 1475,
+    "timeMonth": 1475,
+    "timeYear": 1475,
     "dailyMinutesDown": {}
   }
 ]
