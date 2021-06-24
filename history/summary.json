@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 100,
-    "timeDay": 100,
-    "timeWeek": 100,
-    "timeMonth": 100,
-    "timeYear": 100,
+    "time": 98,
+    "timeDay": 98,
+    "timeWeek": 98,
+    "timeMonth": 98,
+    "timeYear": 98,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 268,
-    "timeWeek": 268,
-    "timeMonth": 268,
-    "timeYear": 268,
+    "time": 238,
+    "timeDay": 238,
+    "timeWeek": 238,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 260,
-    "timeDay": 260,
-    "timeWeek": 260,
-    "timeMonth": 260,
-    "timeYear": 260,
+    "time": 261,
+    "timeDay": 261,
+    "timeWeek": 261,
+    "timeMonth": 261,
+    "timeYear": 261,
     "dailyMinutesDown": {}
   },
   {
@@ -58,9 +58,9 @@
     "url": "https://thissitedoesnotexist.koj.co",
     "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co",
     "slug": "test-broken-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,24 +69,26 @@
     "timeWeek": 1781,
     "timeMonth": 1781,
     "timeYear": 1781,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-24": 0
+    }
   },
   {
-    "name": "Test broken site",
+    "name": "Test mecca site",
     "url": "https://mecca.coffee",
     "icon": "https://favicons.githubusercontent.com/mecca.coffee",
-    "slug": "test-broken-site",
+    "slug": "test-mecca-site",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1781,
-    "timeDay": 1781,
-    "timeWeek": 1781,
-    "timeMonth": 1781,
-    "timeYear": 1781,
+    "time": 1383,
+    "timeDay": 1383,
+    "timeWeek": 1383,
+    "timeMonth": 1383,
+    "timeYear": 1383,
     "dailyMinutesDown": {}
   }
 ]
