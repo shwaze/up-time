@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 1781,
     "dailyMinutesDown": {
-      "2021-08-28": 589,
+      "2021-08-28": 600,
       "2021-08-27": 1440,
       "2021-08-26": 1440,
       "2021-08-25": 1440,
@@ -143,19 +143,19 @@
     "url": "https://mecca.coffee",
     "icon": "https://favicons.githubusercontent.com/mecca.coffee",
     "slug": "test-mecca-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1262,
-    "timeDay": 1440,
-    "timeWeek": 1198,
-    "timeMonth": 1252,
-    "timeYear": 1262,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1253,
+    "timeDay": 1032,
+    "timeWeek": 1126,
+    "timeMonth": 1232,
+    "timeYear": 1253,
     "dailyMinutesDown": {
-      "2021-08-28": 0
+      "2021-08-28": 11
     }
   },
   {
