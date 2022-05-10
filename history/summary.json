@@ -69,14 +69,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "12.32%",
+    "uptimeYear": "12.31%",
     "time": 1781,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1781,
     "dailyMinutesDown": {
-      "2022-05-10": 216,
+      "2022-05-10": 234,
       "2022-05-09": 1440,
       "2022-05-08": 1440,
       "2022-05-07": 1440,
@@ -424,19 +424,19 @@
     "url": "https://joshuas-dapper-project-273199.webflow.io/",
     "icon": "https://favicons.githubusercontent.com/joshuas-dapper-project-273199.webflow.io",
     "slug": "test-up-down-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 7796,
-    "timeWeek": 2074,
-    "timeMonth": 662,
+    "timeDay": 5253,
+    "timeWeek": 1862,
+    "timeMonth": 647,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2022-05-10": 0
+      "2022-05-10": 18
     }
   }
 ]
