@@ -69,14 +69,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "10.70%",
+    "uptimeYear": "10.68%",
     "time": 1781,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1781,
     "dailyMinutesDown": {
-      "2022-05-16": 74,
+      "2022-05-16": 208,
       "2022-05-15": 1440,
       "2022-05-14": 1440,
       "2022-05-13": 1440,
@@ -410,9 +410,9 @@
     "url": "https://mecca.coffee",
     "icon": "https://favicons.githubusercontent.com/mecca.coffee",
     "slug": "test-mecca-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
@@ -422,6 +422,7 @@
     "timeMonth": 778,
     "timeYear": 973,
     "dailyMinutesDown": {
+      "2022-05-16": 0,
       "2022-04-26": 22
     }
   },
