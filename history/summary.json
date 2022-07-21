@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 64,
-    "timeWeek": 130,
+    "timeDay": 80,
+    "timeWeek": 129,
     "timeMonth": 104,
-    "timeYear": 148,
+    "timeYear": 147,
     "dailyMinutesDown": {
       "2021-10-15": 23
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 226,
-    "timeWeek": 231,
-    "timeMonth": 239,
-    "timeYear": 211,
+    "timeDay": 124,
+    "timeWeek": 234,
+    "timeMonth": 238,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "98.49%",
     "uptimeYear": "99.85%",
     "time": 249,
-    "timeDay": 486,
-    "timeWeek": 375,
-    "timeMonth": 290,
+    "timeDay": 214,
+    "timeWeek": 354,
+    "timeMonth": 286,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2022-07-09": 118,
@@ -69,7 +69,7 @@
     "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "14.20%",
+    "uptime": "14.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -80,7 +80,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-20": 84,
+      "2022-07-21": 82,
+      "2022-07-20": 1440,
       "2022-07-19": 1440,
       "2022-07-18": 1440,
       "2022-07-17": 1440,
@@ -443,8 +444,7 @@
       "2021-07-25": 1440,
       "2021-07-24": 1440,
       "2021-07-23": 1440,
-      "2021-07-22": 1440,
-      "2021-07-21": 1440
+      "2021-07-22": 1440
     }
   },
   {
@@ -453,18 +453,19 @@
     "icon": "https://favicons.githubusercontent.com/mecca.coffee",
     "slug": "test-mecca-site",
     "status": "up",
-    "uptime": "89.76%",
+    "uptime": "89.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "89.03%",
-    "time": 912,
-    "timeDay": 434,
-    "timeWeek": 582,
-    "timeMonth": 630,
-    "timeYear": 885,
+    "uptimeYear": "88.76%",
+    "time": 911,
+    "timeDay": 499,
+    "timeWeek": 524,
+    "timeMonth": 628,
+    "timeYear": 883,
     "dailyMinutesDown": {
-      "2022-07-20": 84,
+      "2022-07-21": 82,
+      "2022-07-20": 1440,
       "2022-07-19": 1440,
       "2022-07-18": 1440,
       "2022-07-17": 1440,
@@ -521,9 +522,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 76,
-    "timeWeek": 166,
-    "timeMonth": 116,
+    "timeDay": 172,
+    "timeWeek": 176,
+    "timeMonth": 119,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2022-05-10": 18
